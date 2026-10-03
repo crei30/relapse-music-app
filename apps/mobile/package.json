@@ -1,0 +1,14 @@
+{
+  "name": "@relapse/mobile",
+  "private": true,
+  "version": "0.1.0",
+  "main": "expo/AppEntry.js",
+  "scripts": { "start": "expo start" },
+  "dependencies": {
+    "@relapse/shared": "*",
+    "expo": "latest",
+    "expo-status-bar": "latest",
+    "react": "latest",
+    "react-native": "latest"
+  }
+}
